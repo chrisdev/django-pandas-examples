@@ -1,4 +1,4 @@
-Django==1.9.3
+Django==1.9.4
 django-pandas==0.4.1
 ipython==4.1.1
 jupyter==1.0.0
