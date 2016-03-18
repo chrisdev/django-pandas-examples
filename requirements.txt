@@ -1,0 +1,5 @@
+Django==1.9.4
+django-pandas==0.4.1
+ipython==4.1.1
+jupyter==1.0.0
+django-extensions==1.6.1
